@@ -14,9 +14,6 @@ https://www.projecthoneypot.org/list_of_ips.php
 
 http://zone-h.org/archive
 
-# TIP:-3- you can use this website to see the IP address on a map and shows the ISP:
-
-https://ipintel.io/
 
 
 # TIP:-4-Netcraft is a popular security scanner site that gives detailed information(IPv6, domain register, name server, DNS admin,(SPF),Site technology,hosting provider) about target website:
